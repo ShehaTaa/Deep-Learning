@@ -4,7 +4,7 @@ This repository deep learning models based on Supervised and Unsupervised Algori
 ## This program consists of 6 main parts:-
 
 ### Part 1: Artificial Neural Networks (ANN)
-  **Project:-**
+  - **Project:-**
       The prediction of the customer’s state in the bank, will continue or not.
 ### Part 2: Convolutional Neural Networks (CNN)
 ### Part 3: Recurrent Neural Networks (RNN)
