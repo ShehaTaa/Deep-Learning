@@ -15,6 +15,6 @@ This repository deep learning models based on Supervised and Unsupervised Algori
 ### Part 4: Self Organizing Maps (SOM)
   - **Project:-** 
        Build a fraud detection model to detect potential fraud within credit card applications 
-       based on self organized map **SOM**. 
+               based on self organized map **SOM**. 
 ### Part 5: Boltzmann Machines (BM)
 ### Part 6: AutoEncoders (AE)
